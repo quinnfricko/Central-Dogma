@@ -9,4 +9,4 @@ Getting Started:
 4. Make sure to run the py file labeled " Main_Game_DD.py " to access the game
 
 Link to video: https://www.youtube.com/watch?v=aKKc3mPiD0s
-(Its a little bit longer than 2 minutes, but its worth it)
+(Its a little longer than required, but we wanted to fit in the whole game)
